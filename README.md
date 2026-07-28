@@ -24,7 +24,7 @@
 
 ### 🔭 Projetos em destaque
 
-- **[Portal de Estágios UniALFA](https://github.com/mihhbarbosa123/Hackathon17-06)** — projeto de hackathon: sistema de estágios em 3 camadas (Node.js + PHP OOP + Java OOP). Responsável pelo módulo front-end em PHP, integrado via API REST com autenticação JWT.
+- **[Portal de Estágios UniALFA](https://github.com/RicardoMantovi7/Hackathon17-06)** — projeto de hackathon: sistema de estágios em 3 camadas (Node.js + PHP OOP + Java OOP). Responsável pelo módulo front-end em PHP, integrado via API REST com autenticação JWT.
 - **controle-finan** — sistema de controle financeiro em PHP aplicando padrões de projeto: Repository Pattern, Singleton e Observer (Logger) e hierarquia de exceções customizadas.
 - **API REST em Node.js/TypeScript** — CRUD construído com Express, TypeORM e validação com Zod, testado via Thunder Client.
 - **crud-filmes** — CRUD de filmes em PHP, exercício de colaboração em equipe via Git (fork, PR e resolução de conflitos).
@@ -37,6 +37,7 @@
 
 ---
 
-###  Contato
+### 📫 Contato
 
-- E-mail: miharibarbosa@icloud.com
+- LinkedIn: _adicione seu link aqui_
+- E-mail: _adicione seu e-mail aqui_
