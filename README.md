@@ -1,4 +1,4 @@
-# Olá, eu sou o Mihari 👋
+# Olá, meu nome é Mihari 👋
 
 🎓 Estudante de **Sistemas de Informação** na UniALFA (Faculdade Alfa Umuarama) — Pérola, PR
 💻 Focado em desenvolvimento web (back-end e front-end)
