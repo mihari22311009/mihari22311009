@@ -39,5 +39,5 @@
 
 ### 📫 Contato
 
-- LinkedIn: _adicione seu link aqui_
-- E-mail: _adicione seu e-mail aqui_
+
+- E-mail: miharibarbosa@icloud.com
